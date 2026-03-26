@@ -7,4 +7,4 @@ for i in range(1, N + 1):
 
 print("La suma de cuadrados hasta", N, "es:", suma)
 
-#Así sale el resultado :)
+input("Presiona Enter para salir...")
