@@ -6,3 +6,5 @@ for i in range(1, N + 1):
     suma += i**2
 
 print("La suma de cuadrados hasta", N, "es:", suma)
+
+#Así sale el resultado :)
